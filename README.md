@@ -39,14 +39,14 @@ Here are some cool projects I built:
 ---
 
 ## 📊 GitHub Stats & Streaks
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manushree10&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manushree10&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manushree10&layout=compact&theme=radical)  
 
 ---
 
 ## 📈 Contribution Graph
-[![Manushree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Manushree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manushree10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -56,4 +56,4 @@ Here are some cool projects I built:
 
 ---
 
-⭐️ From [your-username](https://github.com/manushree10)  
+⭐️ From [Manushree N](https://github.com/manushree10)  
