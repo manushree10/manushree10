@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Sep 13, 2025, 01_43_44 PM" src="https://github.com/user-attachments/assets/4e52bad6-1819-49e7-a2a2-cae25feeb740" /><!-- 🎉 GitHub Profile README 🎉 -->
+<img width="1000" height="500" alt="ChatGPT Image Sep 13, 2025, 01_43_44 PM" src="https://github.com/user-attachments/assets/4e52bad6-1819-49e7-a2a2-cae25feeb740" /><!-- 🎉 GitHub Profile README 🎉 -->
 
 # Hi there, I'm Manushree 👋  
 
