@@ -2,8 +2,7 @@
 
 # Hi there, I'm Manushree 👋  
 
-![Profile Banner](https://github.com/manushree10/manushree10/blob/main/<img width="1536" height="1024" alt="ChatGPT Image Sep 13, 2025, 01_43_44 PM" src="https://github.com/user-attachments/assets/60203879-cfa8-4b20-bebe-5635598a6290" />
-) <!-- Optional: Upload banner image in repo -->
+
 
 ---
 
